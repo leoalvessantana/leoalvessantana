@@ -1,3 +1,3 @@
-### Olá! Eu sou o leoalvessantana.  
+### Olá! Bem vindo ao meu Github.  
 
-Atualmente faço Bacharelado em Física e estou aprendendo Ciência de Dados. Em breve estarei compartilhando meus conhecimentos. 
+Me chamo Leonardo e atualmente faço Bacharelado em Física e estou aprendendo Ciência de Dados. Em breve estarei compartilhando meus conhecimentos. 
