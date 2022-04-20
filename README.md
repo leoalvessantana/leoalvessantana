@@ -1,6 +1,6 @@
 <h4>Hi! 👋</h4>
 
-I'm Leonardo, I'm currently doing a bachelor's degree in Physics and I'm learning **Data Science**. Soon I will be sharing my knowledge.
+I'm Leonardo,  I'm currently studying a bachelor's degree in Physics and I'm learning **Data Science**. Soon I will be sharing my knowledge.
 
 
 - 💬 Ask me about anything, I am happy to help;
