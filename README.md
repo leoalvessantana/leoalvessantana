@@ -1,12 +1,8 @@
-<h4>Ola! 👋</h4>
+<h4>Olá! 👋</h4>
 
 Meu nome é Leonardo, sou formado em Física Bacharelado e atualmente estou aprendendo **Ciência de Dados**.
 
-
-
-- 💬 Ask me about anything, I am happy to help;
-
-- 📫 How to reach me **leonardoalvs12@gmail.com**;
+- 📫 Como me encontrar: **leonardoalvs12@gmail.com**;
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
