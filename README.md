@@ -1,6 +1,7 @@
-<h4>Hi! 👋</h4>
+<h4>Ola! 👋</h4>
 
-I'm Leonardo,  I'm currently studying a bachelor's degree in Physics and I'm learning **Data Science**.
+Meu nome é Leonardo, sou formado em Física Bacharelado e atualmente estou aprendendo **Ciência de Dados**.
+
 
 
 - 💬 Ask me about anything, I am happy to help;
