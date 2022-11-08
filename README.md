@@ -2,7 +2,7 @@
 
 Meu nome é Leonardo, sou formado em Física Bacharelado e atualmente estou aprendendo **Ciência de Dados**.
 
-- 📫 Como me encontrar: **leonardoalvs12@gmail.com**;
+- E-mail: **leonardoalvs12@gmail.com**;
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
