@@ -1,16 +1,52 @@
-<h4>Olá! Eu sou o Leonardo Santana e atualmete estou estudando Ciência de Dados.</h4>
+# Hi there, I'm Leonardo Santana 
 
-- E-mail: **leonardoalvs12@gmail.com**;
+I'm a physicist and I'm currently learning data science.
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/leonardo-alves-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leonardo-alves-santana" height="30" width="40" /></a>
-<a href="https://instagram.com/_leonardo.a.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_leonardo.a.s" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/leoalvessantana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalvessantana&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalvessantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
+ ## Some Tools that I work with
+  <!-- Tools  -->
+  <div style="display: inline_block">
+    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+<!--     
+    <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> -->
+  </div>
+  <br />
+  <div>
+    <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </div>
 
-<h5 align="left">Languages and Tools:</h5>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
+  ## Feel Free to Contact Me on any channel
+<div> 
+  <a href="https://www.linkedin.com/in/leonardo-alves-santana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "leonardoalvs12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+  
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoalvessantana&show_icons=true&locale=en&layout=compact" alt="leoalvessantana" /></p> --!>
+  
+<h2><a target="_blank" href="https://leoalvessantana.github.io/portfolio_page/">Projects Portfolio</a></h2>
 
+  * [Delicious Company Project](https://github.com/leoalvessantana/delicious_company)
+  * [Store Sales Prediction](https://github.com/leoalvessantana/store-sales-prediction)
+  * [Projeto Olist](https://github.com/leoalvessantana/Projeto-Olist)
+  
+
+## 📖 I’m currently learning about
+  
+  * Statistics
+  * Machine Learning
+  * data analysis 
