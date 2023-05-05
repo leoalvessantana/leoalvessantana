@@ -48,4 +48,4 @@ I'm a physicist and I'm currently learning data science.
   
   * Statistics
   * Machine Learning
-  * data analysis 
+  * Data Analysis 
