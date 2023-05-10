@@ -1,7 +1,5 @@
 # Hi there, I'm Leonardo Santana 
 
-I'm a physicist.
-
 <div align="center">
   <a href="https://github.com/leoalvessantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalvessantana&layout=compact&langs_count=7&theme=dracula"/>
