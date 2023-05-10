@@ -1,6 +1,6 @@
 # Hi there, I'm Leonardo Santana 
 
-I'm a physicist and I'm currently learning data science.
+I'm a physicist.
 
 <div align="center">
   <a href="https://github.com/leoalvessantana">
