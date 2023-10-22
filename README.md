@@ -37,9 +37,9 @@
   
 <h2><a target="_blank" href="https://leoalvessantana.github.io/portfolio_page/">Projects Portfolio</a></h2>
 
-  * [Delicious Company Project](https://github.com/leoalvessantana/delicious_company)
+  * [Project Delicious Company](https://github.com/leoalvessantana/delicious_company)
   * [Store Sales Prediction](https://github.com/leoalvessantana/store-sales-prediction)
-  * [Projeto Olist](https://github.com/leoalvessantana/Projeto-Olist)
+  * [Project Olist](https://github.com/leoalvessantana/Projeto-Olist)
   * [Project Churn Rate](https://github.com/leoalvessantana/Project-DataScience-Churn)
   
 
