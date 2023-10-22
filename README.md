@@ -40,6 +40,7 @@
   * [Delicious Company Project](https://github.com/leoalvessantana/delicious_company)
   * [Store Sales Prediction](https://github.com/leoalvessantana/store-sales-prediction)
   * [Projeto Olist](https://github.com/leoalvessantana/Projeto-Olist)
+  * [Project Churn Rate](https://github.com/leoalvessantana/Project-DataScience-Churn)
   
 
 ## 📖 I’m currently learning about
