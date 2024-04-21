@@ -41,6 +41,7 @@
   * [Store Sales Prediction](https://github.com/leoalvessantana/store-sales-prediction)
   * [Project Olist](https://github.com/leoalvessantana/Projeto-Olist)
   * [Project Churn Rate](https://github.com/leoalvessantana/Project-DataScience-Churn)
+  * [Projec Customer Segmentation](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
   
 
 ## 📖 I’m currently learning about
