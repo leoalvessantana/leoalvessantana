@@ -43,7 +43,3 @@
   * [Project Churn Rate](https://github.com/leoalvessantana/Project-DataScience-Churn)
   * [Projec Customer Segmentation](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
   
-
-## 📖 I’m currently learning about
-  
-  * Data Science 
