@@ -46,6 +46,4 @@
 
 ## 📖 I’m currently learning about
   
-  * Statistics
-  * Machine Learning
-  * Data Analysis 
+  * Data Science 
