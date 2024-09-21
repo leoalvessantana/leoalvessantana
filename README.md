@@ -37,9 +37,9 @@
   
 <h2><a target="_blank" href="https://leoalvessantana.github.io/portfolio_page/">Projects Portfolio</a></h2>
 
+  * [Previsão de Vendas para um rede de drogarias](https://github.com/leoalvessantana/store-sales-prediction)
+  * [Segmentação de Clientes usando RFM para um E-Commerce](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
+  * [Previsão de Churn para uma operadora de telecomunicações](https://github.com/leoalvessantana/Project-DataScience-Churn)
   * [Painel Gerencial para um Marketplace de Restaurantes](https://github.com/leoalvessantana/delicious_company)
   * [Análise de Dados e Construção de Dashboard para um E-Commerce](https://github.com/leoalvessantana/Projeto-Olist)
-  * [Previsão de Vendas para um rede de drogarias](https://github.com/leoalvessantana/store-sales-prediction)
-  * [Previsão de Churn para uma operadora de telecomunicações](https://github.com/leoalvessantana/Project-DataScience-Churn)
-  * [Segmentação de Clientes usando RFM para um E-Commerce](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
   
