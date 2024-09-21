@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee7700de-688e-49a2-85f4-c387076e9e26)# Hi there, I'm Leonardo Santana 
+# Hi there, I'm Leonardo Santana 
 
 <div align="center">
   <a href="https://github.com/leoalvessantana">
