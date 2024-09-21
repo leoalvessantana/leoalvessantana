@@ -1,4 +1,4 @@
-# Hi there, I'm Leonardo Santana 
+![image](https://github.com/user-attachments/assets/ee7700de-688e-49a2-85f4-c387076e9e26)# Hi there, I'm Leonardo Santana 
 
 <div align="center">
   <a href="https://github.com/leoalvessantana">
@@ -37,9 +37,9 @@
   
 <h2><a target="_blank" href="https://leoalvessantana.github.io/portfolio_page/">Projects Portfolio</a></h2>
 
-  * [Painel Gerencial para Marketplace de Restaurantes](https://github.com/leoalvessantana/delicious_company)
-  * [Análise de Dados e Construção de Dashboard para a Olist](https://github.com/leoalvessantana/Projeto-Olist)
-  * [Previsão de Vendas](https://github.com/leoalvessantana/store-sales-prediction)
-  * [Previsão de Churn](https://github.com/leoalvessantana/Project-DataScience-Churn)
-  * [Segmentação de Clientes](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
+  * [Painel Gerencial para um Marketplace de Restaurantes](https://github.com/leoalvessantana/delicious_company)
+  * [Análise de Dados e Construção de Dashboard para um E-Commerce](https://github.com/leoalvessantana/Projeto-Olist)
+  * [Previsão de Vendas para um rede de drogarias](https://github.com/leoalvessantana/store-sales-prediction)
+  * [Previsão de Churn para uma operadora de telecomunicações](https://github.com/leoalvessantana/Project-DataScience-Churn)
+  * [Segmentação de Clientes usando RFM para um E-Commerce](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
   
