@@ -36,6 +36,8 @@
 <h2><a target="_blank" href="https://leoalvessantana.github.io/portfolio_page/">Projects Portfolio</a></h2>
 -->
 
+  ## Some Projects
+  
   * [Análise de Ameaças Phishing Utilizando Machine Learning e Redes Neurais Convolucionais (CNNs)](https://github.com/leoalvessantana/analise_de_phishing)
   * [Previsão de Vendas para uma Rede de Drogarias](https://github.com/leoalvessantana/store-sales-prediction)
   * [Segmentação de Clientes usando RFM para um E-Commerce](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
