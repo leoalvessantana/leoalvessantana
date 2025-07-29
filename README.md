@@ -32,8 +32,9 @@
   <a href="https://www.linkedin.com/in/leonardo-alves-santana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "leonardoalvs12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-    
+    <!--  SITE
 <h2><a target="_blank" href="https://leoalvessantana.github.io/portfolio_page/">Projects Portfolio</a></h2>
+-->
 
   * [Análise de Ameaças Phishing Utilizando Machine Learning e Redes Neurais Convolucionais (CNNs)](https://github.com/leoalvessantana/analise_de_phishing)
   * [Previsão de Vendas para uma Rede de Drogarias](https://github.com/leoalvessantana/store-sales-prediction)
