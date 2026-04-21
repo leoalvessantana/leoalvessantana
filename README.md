@@ -37,11 +37,10 @@
 -->
 
   ## Some Projects
-  
+
+  * [Assistente Virtual para PDFs com RAG](https://github.com/leoalvessantana/pdf-assistant-rag)
   * [Análise de Ameaças Phishing Utilizando Machine Learning e Redes Neurais Convolucionais (CNNs)](https://github.com/leoalvessantana/analise_de_phishing)
   * [Previsão de Vendas para uma Rede de Drogarias](https://github.com/leoalvessantana/store-sales-prediction)
   * [Segmentação de Clientes usando RFM para um E-Commerce](https://github.com/leoalvessantana/Project-DataScience-Customer-Segmentation)
   * [Previsão de Churn para uma Operadora de Telecomunicações](https://github.com/leoalvessantana/Project-DataScience-Churn)
-  * [Painel Gerencial para um Marketplace de Restaurantes](https://github.com/leoalvessantana/delicious_company)
-  
 
