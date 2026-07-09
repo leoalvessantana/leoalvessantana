@@ -9,17 +9,19 @@ Currently working as a Data Scientist while building open-source educational res
 
 ## Computational Science Notes
 
-An open-source collection of books covering:
+An open-source collection of books on Computational Science, designed to make complex topics accessible through intuitive explanations and practical examples.
 
-- Quantum Computing
-- Artificial Intelligence
-- Machine Learning
-- Mathematics
-- Statistics
-- Programming
-- Physics
+- ✅ Quantum Computing *(In Progress)*
+- ⏳ Artificial Intelligence *(Planned)*
+- ⏳ Machine Learning *(Planned)*
+- ⏳ Mathematics *(Planned)*
+- ⏳ Statistics *(Planned)*
+- ⏳ Programming *(Planned)*
+- ⏳ Physics *(Planned)*
 
-⭐ My long-term goal is to create one of the most complete beginner-friendly Computational Science resources.
+
+**Long-term goal:** build one of the most comprehensive open educational resources in Computational Science.
+
 
 🔗 https://computational-science-notes.readthedocs.io/en/latest/
 
