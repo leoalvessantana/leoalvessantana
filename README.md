@@ -14,10 +14,9 @@ An open-source collection of books on Computational Science, designed to make co
 - ✅ Quantum Computing *(In Progress)*
 - ⏳ Artificial Intelligence *(Planned)*
 - ⏳ Machine Learning *(Planned)*
-- ⏳ Mathematics *(Planned)*
 - ⏳ Statistics *(Planned)*
 - ⏳ Programming *(Planned)*
-- ⏳ Physics *(Planned)*
+- ⏳ Computational Physics *(Planned)*
 
 
 **Long-term goal:** build one of the most comprehensive open educational resources in Computational Science.
